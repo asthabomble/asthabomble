@@ -79,21 +79,10 @@
 
 <p align="center">
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=asthabomble&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em"
-src="https://github-readme-streak-stats.herokuapp.com/?user=asthabomble&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://streak-stats.demolab.com?user=asthabomble&theme=tokyonight&hide_border=true" />
 </p>
 
 
-<p align="center">
-
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=asthabomble&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 
 ---
@@ -104,23 +93,11 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=asthabomble&
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/asthabomble/asthabomble/gh-pages/pacman-contribution-graph.svg">
+<img src="https://raw.githubusercontent.com/asthabomble/asthabomble/gh-pages/pacman-contribution-graph-dark.svg">
 
 </p>
 
 
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=asthabomble&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</p>
-
-
----
 
 # 🌐 Connect With Me
 
