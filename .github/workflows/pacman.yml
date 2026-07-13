@@ -3,22 +3,21 @@ name: Generate Pacman Contribution Graph
 on:
   schedule:
     - cron: "0 */12 * * *"
+
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
-
-      - uses: Platane/snk@v3
+      - name: Generate Pacman
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: asthabomble
-          outputs: |
-            dist/pacman-contribution-graph.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Push SVG
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist
         env:
