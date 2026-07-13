@@ -79,16 +79,19 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=asthabomble&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=asthabomble&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asthabomble&theme=tokyonight&hide_border=true" />
+<img height="180em"
+src="https://github-readme-streak-stats.herokuapp.com/?user=asthabomble&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asthabomble&layout=compact&theme=tokyonight&hide_border=true" />
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=asthabomble&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -101,7 +104,7 @@
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/asthabomble/asthabomble/output/pacman-contribution-graph.svg" />
+<img src="https://raw.githubusercontent.com/asthabomble/asthabomble/gh-pages/pacman-contribution-graph.svg">
 
 </p>
 
@@ -149,3 +152,4 @@
 <h3 align="center">
 ✨ "Code. Learn. Build. Repeat." ✨
 </h3>
+
