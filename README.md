@@ -121,9 +121,6 @@
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=asthabomble&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 
 <h3 align="center">
